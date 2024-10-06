@@ -1,0 +1,11 @@
+{
+  "name": "gues-the-number",
+  "version": "1.0.0",
+  "description": "this is a node js based game ",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "author": "naeem uddin",
+  "license": "ISC"
+}
